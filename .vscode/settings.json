@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "/Users/eknoorsandhu/miniforge3/bin/python",
+  "python.analysis.extraPaths": [],
+  "jupyter.kernels.excludePythonEnvironments": []
+}
