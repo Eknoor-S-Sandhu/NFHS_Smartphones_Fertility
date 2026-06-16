@@ -11,3 +11,8 @@ Along with other models/regressions.
 Model 1: Pooled OLS (wave FE, state-clustered SEs)
 Model 2: State FE + Wave FE (clustered by state)
 Model 3: Robustness
+
+Contains 3 new figures.
+Figure 6: State-level divergence: internet uptake vs. modern family planning
+Figure 7: Mobile ownership and fertility by son preference intensity
+Figure 8: Distribution of state-level changes across NFHS transition periods
