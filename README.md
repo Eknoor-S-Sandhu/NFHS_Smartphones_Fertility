@@ -1,1 +1,4 @@
-Contains data analysis for project regarding smartphones and fertility rates. Utilizes NFHS-3 to NFHS-6 data (from drpakhare/NFHS-6-v1.0.0.zip)
+Contains 3 new figures.
+Figure 6: State-level divergence: internet uptake vs. modern family planning
+Figure 7: Mobile ownership and fertility by son preference intensity
+Figure 8: Distribution of state-level changes across NFHS transition periods
